@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{A4743A59-DAAF-42D4-A579-F4BE67F3CFC0}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45194.8716782407" objectName="Aliases.ESETLogCollector64_21216.dlgESETLogCollector.btnCancelar" objectLeft="586" objectTop="65" objectRight="732" objectBottom="128" clickPointX="652" clickPointY="92" imageFileName="tcvi43560343158320.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45194.8717013889" objectName="Aliases.ESETLogCollector64_21216.dlgESETLogCollector2.btnS_" objectLeft="46" objectTop="148" objectRight="140" objectBottom="177" clickPointX="74" clickPointY="164" imageFileName="tcvi43561750158321.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45194.871724537" objectName="Aliases.ESETLogCollector64_21216.dlgESETLogCollector2.btnAceptar" objectLeft="151" objectTop="148" objectRight="245" objectBottom="177" clickPointX="179" clickPointY="160" imageFileName="tcvi43564218158322.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{06C67514-0735-48BC-BB16-3D65E770086C}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.ESETLogCollector64_21216" Data="61717A69700000000100000076060000780195947B50945518C65F6096457308964B344D89F28F0ADBE6D0D0C5662018506E25384E4B12100EA861400828040282017171B988330804442A378BA681226C014360CCA2B8C84DA302125BAE715FD8A7F3ADCCA7CBC01F9D99E7CC39EF3EE7779EB3DFF93E7BF7485D52371BD6EF62325E931699B31191DDDAEFEAC9BA4E4F48A29DDB69BF933D6505F8D09DC8509A8A3B4DE0743A9466027DA9E38003E55A98938B9E1E19AD5BAE313534A05D524FBA15F6819632265C1FF9B98EA8A90E417DED59B5BEBE1E8A824BCE888D3000E7F13A44ED4622126B40D6264221991C3E483DE1C126B8519F898585696CD61617FF85BC211B11C1A660FBDF6739CDD63377BC40DEBE52C14AB3BC082A958A477163A57249ADD5D5158DFAEDF62ABC7F4408F16E8A5BCF7B594225410116989F7B9CABBBB30939997E381FEF82A43867A4271F467D5D3E565696D5DCB9B929849D14639F0DD5696B93C653B17D9DBA2EA4F9F0FB8F0CF7E1909B1EDE3EA08DA3EF6D47A09F053C5C04786BBF169A1BAFF13E59BA2F6C5FA3DF747448FFC98C4E6FD26475451AEF2BCA0F879B13319639C61E0C61627C14B9B263880AB743F99524DE575D9906FB3768482020C327799EAEC49E4311EFFB24C11D5C2DE484153A7EFE4E43F7067EE27D3F7CFF195C1C688CF1B86BC9372F4F4293BC98F7A5243A83ABF9BC23C4C9C0E7D5F2F7D6879FD756646748795FB3BC04075D684C771DCF574AF337EA73785F4961008E7A13622377637262040AC51F888F92A86B65C541BC8F5B23F5A0615D5D12F1E1D8C0474A8395571FFBBA3B6BF1D109815A391976C8CB7262775897CD75D17BB701CAE579CCCE3E44795900D8DA7E83A7C962EB1632E5DE2F86D3F670A51A59EA4B585D55AAF756A956D1D672191752248809DF8698534F21FDFC1E34CB65989AFA0B578ADD7029EB45A42418B1F745B010725CD0177C5C70F7C3637A9DB6FBB4635EB1A65389D1DB54BF0FCAF9B36C36E8FAF51A1AEACE609965542A17F8FD979666A178D80B59AAC5AA893159468791A2F0E25E4C8E0FB29C8FEEEC46CC8E3BC568BF958396A64FD9DA1D986679BFFD2614793231CBFE27CB2D01F75F4A2C497A2E8AC62FA68B5053E18ED6E638F4747E8EC1BEAF98BE446FD71768BB9980D2CBAFAA79B75BF370BDDC1BCB2C1797B9EAAA1714FFF4F33C8E69F60C59F9BF4B1551A1D4CDD8C3C967693C359EA69966D87882D54662226894CB575AE088A4D82DEA23B4B56423FE0CE15E7FBD068F63B2A6CD9E95A1B188769A9992D573CFD25E4E66662466DF270B1B6B0AE2786545CE48FC5888BF477F414D953FE36961E87EE346BC47D44D7A8915F970BC81BE5AA49E13A9732544EBB0F34A313D3DFCBF79624B3AF2636332161767F060B403AD3733D1DD598939761FC71503C8CDD8A3DA24CA8665037D328F0831EE2929704069A1A386F264D6CBAE4E3A39FF01A80C32B2" />
+					<Bitmap Name="Aliases.ESETLogCollector64_21216.dlgESETLogCollector" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;esetlogcollector&quot; tested application." TestedApp="esetlogcollector">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector.btnRecopilar;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="1903" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="19" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Discord.wndChrome_WidgetWin_1;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags the &apos;%n&apos; object." Action="Drag" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="439" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="14" />
+						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="-94" />
+						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="-8" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags the &apos;%n&apos; object." Action="Drag" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="395" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="13" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Activates the &apos;%n&apos; window." Action="Activate" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the &apos;%n&apos; scrollbar control to position %v." Action="Pos" InvokeKind="2" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector.editRegistroDelProceso.HScroll;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the &apos;%n&apos; scrollbar control to position %v." Action="Pos" InvokeKind="2" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="54" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector.editRegistroDelProceso.VScroll;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p2 subitem of the %p1 item of the &apos;%n&apos; list view." Action="ClickItemXY" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="Configuración de la red" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="428" />
+						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="5" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector.lvObjetosARecopilar;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags the &apos;%n&apos; object." Action="Drag" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="387" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ESETLogCollector64_21216.dlgESETLogCollector;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{EF819F34-58D7-48E3-9B9B-CDD43AE3EA8D}" />
+</Root>

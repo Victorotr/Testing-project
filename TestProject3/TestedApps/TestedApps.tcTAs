@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{486242B4-E818-4BC1-9B3A-ABD4CD285167}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{99FEC0D1-DC46-403D-BF70-F7C0A97959A0}">
+			<config nodeName="esetlogcollector" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\victo\OneDrive\Escritorio\Proyecto-Testing" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\victo\OneDrive\Escritorio\Proyecto-Testing" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\victo\OneDrive\Escritorio\Proyecto-Testing" />
+					<param name="Simple" fileName="esetlogcollector.exe" filePath="C:\Users\victo\Downloads\" parameters="" workFolder="C:\Users\victo\OneDrive\Escritorio\Proyecto-Testing" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

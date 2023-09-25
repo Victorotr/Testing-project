@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{4D8210CF-E50B-4CC1-A903-D95601386453}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="ESETLogCollector64_21216" Key="{E0CBD55B-B3ED-4500-A8A9-250BF5ADFF90}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ESETLogCollector64_21216" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlgESETLogCollector" Key="{BF86EC8D-5ADA-4A5F-A0C0-9DC5666B5A43}">
+								<Image FileName="-1748690510" Left="0" Top="0" Right="780" Bottom="786" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="ESET Log Collector" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnCancelar" Key="{50238AE4-7EB5-41ED-84B5-CDFF54183F9F}">
+										<Image FileName="-1748690510" Left="586" Top="65" Right="732" Bottom="128" />
+										<TypeInfo Item0="{A4C9458C-FE46-4489-B57E-C1B437B54927}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Cancelar" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgESETLogCollector2" Key="{773E6934-E9C0-420D-B1F9-BC01A60D7524}">
+								<Image FileName="-200471943" Left="0" Top="0" Right="271" Bottom="199" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="ESET Log Collector" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnS_" Key="{F3971068-2B98-4F94-AD7A-20538FE427E6}">
+										<Image FileName="-200471943" Left="46" Top="148" Right="140" Bottom="177" />
+										<TypeInfo Item0="{A4C9458C-FE46-4489-B57E-C1B437B54927}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Sí" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnAceptar" Key="{9D5D46F6-4B41-427B-B0FD-AC1F6A8FD3B8}">
+										<Image FileName="1429823194" Left="151" Top="148" Right="245" Bottom="177" />
+										<TypeInfo Item0="{A4C9458C-FE46-4489-B57E-C1B437B54927}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Aceptar" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="ESETLogCollector64_21216" Owner="{E0CBD55B-B3ED-4500-A8A9-250BF5ADFF90}">
+			<Child Name="dlgESETLogCollector" Owner="{BF86EC8D-5ADA-4A5F-A0C0-9DC5666B5A43}">
+				<Child Name="btnCancelar" Owner="{50238AE4-7EB5-41ED-84B5-CDFF54183F9F}" />
+			</Child>
+			<Child Name="dlgESETLogCollector2" Owner="{773E6934-E9C0-420D-B1F9-BC01A60D7524}">
+				<Child Name="btnS_" Owner="{F3971068-2B98-4F94-AD7A-20538FE427E6}" />
+				<Child Name="btnAceptar" Owner="{9D5D46F6-4B41-427B-B0FD-AC1F6A8FD3B8}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

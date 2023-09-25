@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{08E2F4C1-F5E3-4A33-ADD2-5FFDD93B86D9}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="ESETLogCollector64_21216" Key="{52E1AF0B-0768-4872-B642-251E27CF4231}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ESETLogCollector64_21216" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlgESETLogCollector" Key="{D150F5CB-8BD9-475C-94E0-744443F4BCCF}">
+								<Image FileName="-258115880" Left="0" Top="0" Right="780" Bottom="786" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="ESET Log Collector" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnRecopilar" Key="{DB60972D-3AA5-42C6-9291-FF67760AB744}">
+										<Image FileName="-258115880" Left="586" Top="65" Right="732" Bottom="128" />
+										<TypeInfo Item0="{CD7832B3-984E-4441-BEAA-93AFE27D9CEA}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Recopilar" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="editRegistroDelProceso" Key="{FEB1C1C8-BE56-4297-A607-2676C29DE11F}">
+										<TypeInfo Item0="{AE668B0D-4AF0-4CA8-A090-E7F3A2D0ABE6}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="2" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="lvObjetosARecopilar" Key="{B6A80E35-209F-4F34-BAEF-E32F65B63595}">
+										<Image FileName="-113510820" Left="24" Top="162" Right="755" Bottom="476" />
+										<TypeInfo Item0="{8E503250-2998-43C0-8E41-D6A83E55305E}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="SysListView32" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Discord" Key="{EBC40B2C-E6CF-4778-A05B-0A32BE881A66}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Discord" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{31390A98-2EE3-41D5-8E2E-30E7496DC36A}">
+								<Image FileName="456058062" Left="-9" Top="-9" Right="1929" Bottom="1039" />
+								<TypeInfo Item0="{D17FA21E-A681-433D-B4CC-33A26B4BF3E8}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Code" Key="{B692A9D8-7DC8-4F66-8893-4B4A4F229B84}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Code" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{09282923-39B5-4EA5-BDC5-B189993EEE64}">
+								<Image FileName="-2002796169" Left="-9" Top="-9" Right="1929" Bottom="1039" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="ESETLogCollector64_21216" Owner="{52E1AF0B-0768-4872-B642-251E27CF4231}">
+			<Child Name="dlgESETLogCollector" Owner="{D150F5CB-8BD9-475C-94E0-744443F4BCCF}">
+				<Child Name="btnRecopilar" Owner="{DB60972D-3AA5-42C6-9291-FF67760AB744}" />
+				<Child Name="editRegistroDelProceso" Owner="{FEB1C1C8-BE56-4297-A607-2676C29DE11F}" />
+				<Child Name="lvObjetosARecopilar" Owner="{B6A80E35-209F-4F34-BAEF-E32F65B63595}" />
+			</Child>
+		</Child>
+		<Child Name="Discord" Owner="{EBC40B2C-E6CF-4778-A05B-0A32BE881A66}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{31390A98-2EE3-41D5-8E2E-30E7496DC36A}" />
+		</Child>
+		<Child Name="Code" Owner="{B692A9D8-7DC8-4F66-8893-4B4A4F229B84}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{09282923-39B5-4EA5-BDC5-B189993EEE64}" />
+		</Child>
+	</LogicalNodes>
+</Root>
